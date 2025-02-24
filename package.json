@@ -1,6 +1,6 @@
 {
-  "name": "year-template",
-  "description": "Template for blog year in personal web site.",
+  "name": "2009",
+  "description": "Blog posts for 2009",
   "version": "1.0.0",
   "scripts": {
     "dev": "astro dev",
